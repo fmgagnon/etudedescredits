@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L&#39;étude des crédits budgétaires : un reflet du contrôle parlementaire</title>
+    <description>Un essai sur l&#39;évolution du contrôle parlementaire à travers le processus annuel d&#39;étude des crédits en commission.
+</description>
+    <link>http://etudedescredits.fmgagnon.com/</link>
+    <atom:link href="http://etudedescredits.fmgagnon.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 May 2017 21:21:04 -0400</pubDate>
+    <lastBuildDate>Tue, 09 May 2017 21:21:04 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+  </channel>
+</rss>
